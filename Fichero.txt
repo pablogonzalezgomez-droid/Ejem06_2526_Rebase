@@ -1,4 +1,10 @@
 Primera modificación
 Segunda modificación.
 Tercera modificación.
+<<<<<<< HEAD
 Cuarta modificación.
+=======
+Cuarta modificación.
+Quinta modificación.
+Sexta modificación.
+>>>>>>> c1ecd49 (Sexta modificación)
